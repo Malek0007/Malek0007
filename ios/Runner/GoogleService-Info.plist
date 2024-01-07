@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDsIdL6n-cKVniPfSqJFjPDRbfPs204KZ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>529984991216</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firstProjectTest</string>
+	<key>PROJECT_ID</key>
+	<string>mobile-44ff3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobile-44ff3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:529984991216:ios:bea8dc7ea98b973ef8f735</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobile-44ff3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
