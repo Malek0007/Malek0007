@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malek0007&label=Profile%20views&color=0e75b6&style=flat" alt="malek0007" /> </p>
 
-- 🔭 I’m currently working on **Deep learning projects**
+- 🔭 I’m currently working on **AI/Generative AI projects**
 
 - 👯 I’m looking to collaborate on **more projects in this field**
 
