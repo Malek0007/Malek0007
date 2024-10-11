@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI/Generative AI projects**
   
--🌱 I’m currently learning **AWS Cloud Practitionner Certificate** and **AWS Machine learning**
+- 🌱 I’m currently learning **AWS Cloud Practitionner Certificate** and **AWS Machine learning**
 
 - 👯 I’m looking to collaborate on **more projects in this field**
 
